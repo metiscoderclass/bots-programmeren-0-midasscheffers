@@ -81,7 +81,7 @@ function PutLetterInSecretWord(lttr, sWord, wrd){
 }
 
 const bot = new TeleBot({
-    token: '968506699:AAEJx5c0izHNUgHHQi1bLsbB_atKPlNafCw' // Telegram Bot API token.
+    token: 'your bot token' // Telegram Bot API token.
 });
 
 
